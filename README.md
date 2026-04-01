@@ -95,7 +95,7 @@ Netflix-Churn-Prediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/srikaran-git/Netflix_ChurnPrediction_App.git
 cd Netflix-Churn-Prediction
 ```
 
